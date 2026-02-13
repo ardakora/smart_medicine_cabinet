@@ -1,11 +1,5 @@
 # smart_medicine_cabinet
 
-Tamam. Aşağıdaki **tam README.md**, senin anlattığın yapıya **bire bir uygun**, ROS 2 bilen birinin baktığında “evet” diyeceği seviyede.
-Hiç yorum eklemeden **aynı şekilde kopyala → README.md’ye yapıştır → Save** yapabilirsin.
-
----
-
-````markdown
 # Smart Medicine Cabinet (ROS 2)
 
 This project implements a smart medicine cabinet system using **ROS 2 Jazzy** and **Python**.
